@@ -1,6 +1,6 @@
 # kind-and-firm
 
-I’m exploring whether **Positive Discipline (LoRA-adapted reward models)** can help agents learn to *reason from reality* (not just optimize rewards) by encoding ground-truth social dynamics into the RL signal. The idea being to deploya RL reward model on the philosophy of Dr. Jane Nelsen (Positive Discipline), then using it to align an open-source language model beyond HHH (Helpful, Honest, Harmless).
+I’m exploring whether **Positive Discipline LoRA-adapted reward models** can help agents learn to *reason from reality* (not just optimize rewards) by encoding ground-truth social dynamics into the RL signal. The idea being to deploy RL reward models on the philosophy of Dr. Jane Nelsen (Positive Discipline), thereby using it to align open-source language models beyond HHH (Helpful, Honest, Harmless).
 
 Methodology: deploy Nemotron-3-Super as a LoRA-modified reward model by: [1] converting PD criteria into preference labels via human-AI interaction logs, and [2] applying DPO to align policy while preserving base capabilities via KL constraint. 
 
