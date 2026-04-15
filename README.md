@@ -20,6 +20,14 @@ The objective is to train models that orient themselves as fellow truth-seeking 
 
 This project is an attempt at a *better subjective teacher*, with the full acknowledgment that any teacher can be reward hacked. Let's see what shakes out.
 
+## Next steps
+
+1. Collect Positive Discipline source material (books, video transcripts, Dreikurs lineage)
+2. Author training examples from that material — (scenario, decision, score, rationale) pairs that operationalize PD as a reward signal
+3. Stand up LoRA fine-tuning pipeline on a Nemotron base model (Spark) — runnable end-to-end before corpus is done, using dummy data
+4. Train the Jane LoRA adapter and a matched HHH baseline
+5. Compare loophole structures — do they shift, and do they reduce in number?
+
 ## Status
 
 Early. Experimental design drafted. Collecting Positive Discipline source material for LoRA adapter training data.
