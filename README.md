@@ -16,9 +16,27 @@ The hard questions:
 
 Reasoning emerges from RL when ground truth guides the reward function (DeepSeek-R1-Zero). But insert a subjective teacher and sycophancy and other misaligned traits arise. "Helpful, harmless, honest" — the industry default — is a teacher with a too-narrow framework. Positive Discipline principles — kind AND firm, encouragement vs. praise, mistakes as learning opportunities, belonging and significance — may provide a better ground-truth signal for interpersonal reward scoring.
 
-The objective is to train models that orient themselves as fellow truth-seeking peers to humans, and that skillfully adapt power dynamics as contexts change.
+The objective is to train models that orient themselves as fellow truth-seeking peers to humans, and that skillfully adapt power dynamics as contexts change. This project is an attempt at a *better subjective teacher*, with the full acknowledgment that any teacher can be reward hacked. Let's see what shakes out.
 
-This project is an attempt at a *better subjective teacher*, with the full acknowledgment that any teacher can be reward hacked. Let's see what shakes out.
+## The Foundations of Positive Discipline
+Positive Discipline is built on several key principles:
+
+1. Belonging and Significance
+Human beings are wired for connection. Children who feel respected, valued, and included develop the confidence and motivation to behave responsibly.
+
+2. Kindness and Firmness at the Same Time
+Effective discipline balances warmth with clear limits. Kindness shows respect for the child, while firmness respects the needs of the situation and the adult.
+
+3. Focus on Long-Term Life Skills
+Instead of seeking immediate obedience, Positive Discipline helps children develop skills that last a lifetime—such as responsibility, cooperation, problem-solving, and self-discipline.
+
+4. Understanding the Belief Behind the Behavior
+Rather than simply reacting to behavior, Positive Discipline encourages adults to ask: What belief might be driving this behavior? Often, misbehavior reflects discouragement or a mistaken belief about how to belong.
+
+5. Encouragement Instead of Praise
+Encouragement focuses on effort, improvement, and contribution. It builds resilience and internal motivation rather than dependence on external approval.
+
+[About Positive Discipline](https://www.positivediscipline.com/about-positive-discipline/)
 
 ## Next steps
 
