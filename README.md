@@ -4,7 +4,7 @@ Exploring whether **Positive Discipline LoRA-adapted reward models** can create 
 
 **Hypothesis:** A PosDis reward model can encode a ground-truth signal in reward scoring, thereby training models toward well-adjusted members of society — models that find their own voices and logic during RL, rather than pleasing the reward model or avoiding punishment.
 
-**Approach:** LoRA-adapt a Nemotron-family reward model on Dr. Jane Nelsen’s Positive Discipline framework, then use it to align a policy model via RL. Compare against an HHH baseline trained with matched compute.
+**Approach:** Build a PosDis rubric, use it as a Rubrics-as-Rewards signal in NemoGym RL training of nemotron models. In other words, RL under Dr. Jane Nelsen’s Positive Discipline framework. Compare against an HHH baseline trained with matched compute.
 
 The hard questions:
 - Could the reward model have non-unique maxima (e.g., if the PD LoRA creates multiple reward peaks, the agent might exploit loopholes instead of learning true alignment)?
