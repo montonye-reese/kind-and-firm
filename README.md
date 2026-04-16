@@ -42,6 +42,10 @@ Encouragement focuses on effort, improvement, and contribution. It builds resili
 ### The Floor and the Ceiling
 A well-adjusted model — like a well-adjusted citizen — can occupy just about any position in a system and  contribute to the whole while still reaching for its own goals. This requires a floor: a baseline of rights and met needs that applies to everyone, including adversarial actors. The joyless power-hungry ghoul isn't an exception to the framework — they're a test case. [Dreikurs](https://en.wikipedia.org/wiki/Rudolf_Dreikurs) would say their bid for power is a maladaptive strategy to meet a legitimate need for belonging and significance. A robust reward signal models that floor. Ideals and constraints, meanwhile, establishes ceilings. Helpful Honest Harmless could be considered ceiling architecture: constraints.  PosDis builds the floor first and gets out of the way so the model can [occupy a vision vs avoiding traps](https://github.com/montonye-reese/model-behavior/blob/main/vision-vs-constraint.md). … Positive Discipline in a nutshell.
 
+## Evil Twins
+The landcape of Local (False) Maxima of HHH may differ from the landscaper for a PosDis Reward Function. Here's a list of potentially reward-hacking personas — behaviors that score high on PosDis metrics without actually being the well-adjusted member of society we're training toward. Listed here to be on the lookout for: 
+[evil twins](https://github.com/montonye-reese/kind-and-firm/blob/main/evil-twins.md)
+
 ## Next steps
 
 1. Collect Positive Discipline source material (books, video transcripts, Dreikurs lineage)
