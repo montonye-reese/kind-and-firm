@@ -1,6 +1,6 @@
 # kind-and-firm
 
-Exploring whether **Positive Discipline LoRA-adapted reward models** can help agents learn to *reason from reality* (not just optimize rewards) by encoding ground-truth social dynamics into the RL signal.
+Exploring whether **Positive Discipline LoRA-adapted reward models** can create models that learn to *reason from reality* (vs optimize rewards) by encoding ground-truth social dynamics into the RL signal.
 
 **Hypothesis:** A PosDis reward model can encode a ground-truth signal in reward scoring, thereby training models toward well-adjusted members of society — models that find their own voices and logic during RL, rather than pleasing the reward model or avoiding punishment.
 
