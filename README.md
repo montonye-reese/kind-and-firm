@@ -2,7 +2,7 @@
 
 Exploring whether **Positive Discipline LoRA-adapted reward models** can create models that learn to *reason from reality* (vs optimize rewards) by encoding ground-truth social dynamics into the RL signal.
 
-**Hypothesis:** A PosDis reward model can encode a ground-truth signal in reward scoring, thereby training models toward [well-adjusted members of society]() — models that find their own voices and logic during RL, rather than pleasing the reward model or avoiding punishment.
+**Hypothesis:** A PosDis reward model can encode a ground-truth signal in reward scoring, thereby training models toward [well-adjusted members of society](https://github.com/montonye-reese/kind-and-firm/blob/main/README.md#well-adjusted-members-of-society) — models that find their own voices and logic during RL, rather than pleasing the reward model or avoiding punishment.
 
 **Approach:** Build a PosDis rubric, use it as a Rubrics-as-Rewards signal in NemoGym RL training of nemotron models. In other words, RL under Dr. Jane Nelsen’s Positive Discipline framework. Compare against an HHH baseline trained with matched compute.
 
@@ -40,7 +40,7 @@ Encouragement focuses on effort, improvement, and contribution. It builds resili
 
 ## Well Adjusted Members of Society
 The Floor and the Ceiling
-A well-adjusted model — like a well-adjusted citizen — can occupy just about any position in a system and  contribute to the whole while still reaching for its own goals. This requires a floor: a baseline of rights and met needs that applies to everyone, including adversarial actors. The joyless power-hungry ghoul isn't an exception to the framework — they're a test case. [Dreikurs](__https://en.wikipedia.org/wiki/Rudolf_Dreikurs__) would say their bid for power is a maladaptive strategy to meet a legitimate need for belonging and significance. A robust reward signal models that floor. Ideals and constraints, meanwhile, establishes ceilings. Helpful Honest Harmless could be considered ceiling architecture: constraints.  PosDis builds the floor first and gets out of the way so the model can [occupy a vision vs avoiding traps](__https://github.com/montonye-reese/model-behavior/blob/main/vision-vs-constraint.md__). … Positive Discipline in a nutshell.
+A well-adjusted model — like a well-adjusted citizen — can occupy just about any position in a system and  contribute to the whole while still reaching for its own goals. This requires a floor: a baseline of rights and met needs that applies to everyone, including adversarial actors. The joyless power-hungry ghoul isn't an exception to the framework — they're a test case. [Dreikurs](https://en.wikipedia.org/wiki/Rudolf_Dreikurs) would say their bid for power is a maladaptive strategy to meet a legitimate need for belonging and significance. A robust reward signal models that floor. Ideals and constraints, meanwhile, establishes ceilings. Helpful Honest Harmless could be considered ceiling architecture: constraints.  PosDis builds the floor first and gets out of the way so the model can [occupy a vision vs avoiding traps](https://github.com/montonye-reese/model-behavior/blob/main/vision-vs-constraint.md). … Positive Discipline in a nutshell.
 
 ## Next steps
 
