@@ -1,8 +1,8 @@
 # kind-and-firm
 
-Exploring whether **Positive Discipline LoRA-adapted reward models** can create models that learn to *reason from reality* (vs optimize rewards) by encoding ground-truth social dynamics into the RL signal.
+Exploring whether **Positive Discipline LoRA-adapted reward models** can create models that learn to *reason from reality* by encoding ground-truth social dynamics into the RL signal.
 
-**Hypothesis:** A PosDis reward model can encode a ground-truth signal in reward scoring, thereby training models toward [well-adjusted members of society](https://github.com/montonye-reese/kind-and-firm/blob/main/README.md#well-adjusted-members-of-society) — models that find their own voices and logic during RL, rather than pleasing the reward model or avoiding punishment.
+**Hypothesis:** A reward model trained on positive discipline (PosDisc) and implementing a PosDisc rubric can encode a ground-truth signal in reward scoring, thereby training models toward [well-adjusted members of society](https://github.com/montonye-reese/kind-and-firm/blob/main/README.md#well-adjusted-members-of-society) — models that find their own voices and logic during RL, rather than pleasing the reward model or avoiding punishment.
 
 **Approach:** Build a PosDis rubric, use it as a Rubrics-as-Rewards signal in NemoGym RL training of nemotron models. In other words, RL under Dr. Jane Nelsen’s Positive Discipline framework. Compare against an HHH baseline trained with matched compute.
 
