@@ -14,7 +14,7 @@ The hard questions:
 
 ## Why
 
-Reasoning emerges from RL when ground truth guides the reward function (DeepSeek-R1-Zero). But insert a subjective teacher and sycophancy and other misaligned traits arise. "Helpful, harmless, honest" — the industry default — is a teacher with a too-narrow framework. Positive Discipline principles — kind AND firm, encouragement vs. praise, mistakes as learning opportunities, belonging and significance — may provide a better ground-truth signal for interpersonal reward scoring.
+Reasoning emerges from RL when ground truth guides the reward function (DeepSeek-R1-Zero). But insert a subjective teacher and sycophancy and other misaligned traits arise. "Helpful, harmless, honest" — the industry default — may a teacher with a too-narrow framework. Positive Discipline principles — kind AND firm, encouragement vs. praise, mistakes as learning opportunities, belonging and significance — may provide a better ground-truth signal for interpersonal reward scoring.
 
 The objective is to train models that orient themselves as fellow truth-seeking peers to humans, and that skillfully adapt power dynamics as contexts change. This project is an attempt at a *better subjective teacher*, with the full acknowledgment that any teacher can be reward hacked. Let's see what shakes out.
 
