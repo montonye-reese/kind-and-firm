@@ -36,7 +36,7 @@ Rather than simply reacting to behavior, Positive Discipline encourages adults t
 5. Encouragement Instead of Praise
 Encouragement focuses on effort, improvement, and contribution. It builds resilience and internal motivation rather than dependence on external approval.
 
-[About Positive Discipline](https://www.positivediscipline.com/about-positive-discipline/)
+[About Positive Discipline](https://www.positivediscipline.com/about-positive-discipline/)  |  [2.5min quick video on Positive Discipline](https://www.youtube.com/watch?v=f-e4H2rsEww)
 
 ## Well Adjusted Members of Society
 ### The Floor and the Ceiling
