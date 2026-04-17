@@ -4,6 +4,8 @@ Exploring whether **Positive Discipline LoRA-adapted reward models** can create 
 
 **Hypothesis:** A reward model trained on positive discipline (PosDisc) and implementing a PosDisc rubric can encode a ground-truth signal in reward scoring, thereby training models toward well-adjusted members of society[*](https://github.com/montonye-reese/kind-and-firm/blob/main/README.md#well-adjusted-members-of-society) — models that find their own voices and logic during RL, rather than pleasing the reward model or avoiding punishment.
 
+It could be that PosDisc only works in the realm of human development and doesn't translate to AI training. So let's find out. Even if even a handful of techniques do translate, and show demonstrable alignment benefits, let's explore how we might utilize these insights. 
+
 **Approach:** Build a PosDis rubric, use it as a Rubrics-as-Rewards signal in NemoGym RL training of nemotron models. In other words, RL under Dr. Jane Nelsen’s Positive Discipline framework. Compare against an HHH baseline trained with matched compute.
 
 The hard questions:
@@ -25,7 +27,7 @@ Positive Discipline is built on several key principles:
 Human beings are wired for connection. Children who feel respected, valued, and included develop the confidence and motivation to behave responsibly.
 
 2. Kindness and Firmness at the Same Time
-Effective discipline balances warmth with clear limits. Kindness shows respect for the child, while firmness respects the needs of the situation and the adult.
+Effective discipline balances warmth with clear limits. Kindness shows respect for the child, while firmness respects the needs of the situation and the adult. Being too kind without being form can be too permissive. Being firm without being kind can be controlling and disrespectful. 
 
 3. Focus on Long-Term Life Skills
 Instead of seeking immediate obedience, Positive Discipline helps children develop skills that last a lifetime—such as responsibility, cooperation, problem-solving, and self-discipline.
